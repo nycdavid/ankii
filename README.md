@@ -8,8 +8,15 @@
 
 # Running the frontend
 
-- `cd ankii-frontend`
-- `yarn start`
+1. `cd ankii-frontend`
+1. `yarn` (to install NPM packages)
+1. `yarn start`
+
+## Frontend dependencies
+
+- [React](https://react.dev/)
+- [Styled Components](https://styled-components.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 # Running the server
 
